@@ -7,7 +7,7 @@
 <body>
     <h1>Calculadora de Gastos de Envío</h1>
     
-    <form action="calcular_envio_switch.php" method="post">
+    <form action="Ejercicio2.php" method="post">
         <label for="precio">Precio total de la cesta (en €): </label>
         <input type="number" name="precio" required>
         <button type="submit">Calcular Gastos de Envío</button>
